@@ -20,8 +20,9 @@ The objective of this repo is to make the deployment of PubHub docs for internal
 ```
 
 4. Insert the PubHub JavaScript between the commented tags
-5. Push the new .html file you've created to Master on the repository
-6. Visit https://devnetapic.cisco.com/SBPH/[NAME] where [NAME] is the html file you've created **Without the .html suffix**
+5. Save the .html file you created in the **templates** folder
+6. Push the new .html file to Master on the repository
+7. Visit https://devnetapic.cisco.com/SBPH/[NAME] where [NAME] is the html file you've created **Without the .html suffix**
 
 Contact Jacob Adams (jacoadam@cisco.com) with any questions. 
 
