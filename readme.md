@@ -1,6 +1,6 @@
 # PubHub Deploy 
 
-The objective of this repo is to make the deployment of PubHub docs for internal use painless. Push an HTML file with the PubHub JavaScript included, then visit https://devnetapic.cisco.com/SBPH/<name>. Instructions outlined below: 
+The objective of this repo is to make the deployment of PubHub docs for internal use painless. Push an HTML file with the PubHub JavaScript included, then visit https://devnetapic.cisco.com/SBPH/[NAME]. Instructions outlined below: 
 
 ## Instructions
 
@@ -21,7 +21,7 @@ The objective of this repo is to make the deployment of PubHub docs for internal
 
 4. Insert the PubHub JavaScript between the commented tags
 5. Push the new .html file you've created to Master on the repository
-6. Visit https://devnetapic.cisco.com/SBPH/<name> where <name> is the html file you've created **Without the .html suffix**
+6. Visit https://devnetapic.cisco.com/SBPH/[NAME] where [NAME] is the html file you've created **Without the .html suffix**
 
 Contact Jacob Adams (jacoadam@cisco.com) with any questions. 
 
